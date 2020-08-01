@@ -1,0 +1,5 @@
+minimum platform 
+inversion of array without seeing implement
+permutation of given string - recursion and map
+stock and sell - classes walla
+recursively remove adjaceny duplicates

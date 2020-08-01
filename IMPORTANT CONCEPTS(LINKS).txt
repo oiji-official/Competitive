@@ -1,0 +1,8 @@
+https://www.geeksforgeeks.org/sorting-vector-of-pairs-in-c-set-2-sort-in-descending-order-by-first-and-second/
+https://www.geeksforgeeks.org/fast-io-for-competitive-programming/
+https://www.geeksforgeeks.org/sort-c-stl/
+
+
+
+Priority queue implementation:
+https://www.youtube.com/watch?v=obOsg64oEGM
